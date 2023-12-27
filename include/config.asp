@@ -1,1 +1,3 @@
-Dim PageName : PageName = "Sample"
+<%
+Dim pageName = "Sample"
+%>

@@ -1,4 +1,4 @@
-<!-- #include file="webconfig.asp"-->
+<!-- #include file="config.asp"-->
 <%
 %>
 <!DOCTYPE html>
@@ -7,3 +7,6 @@
   
 </head>
 <body>
+<header>
+
+</header>
